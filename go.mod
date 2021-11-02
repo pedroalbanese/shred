@@ -1,3 +1,3 @@
-module github.com/JojiiOfficial/shred
+module github.com/pedroalbanese/shred
 
 go 1.14
